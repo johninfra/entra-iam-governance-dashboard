@@ -228,7 +228,7 @@ The project is deployed to Azure Static Web Apps from this GitHub repository thr
 
 Current deployment model:
 
-1. Source repository: `johninfra/azure-tenant-governance-dashboard`
+1. Source repository: `johninfra/entra-iam-governance-dashboard`
 2. Branch: `main`
 3. Frontend build: Vite
 4. Output directory: `dist`
